@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chart caption=''
+		   xAxisName='' yAxisName='Amount' numberPrefix='votos(s): '>  
+<set label='Sculptor ' value='238' />
+<set label='Da onda ' value='166' />
+<set label='Titanium ' value='147' />
+<set label='Fisiovital ' value='143' />
+<set label='Cláudia ' value='93' />
+<set label='Outro(a) ' value='70' />
+</chart>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chart caption=''
+		   xAxisName='' yAxisName='Amount' numberPrefix='votos(s): '>  
+<set label='Costa ' value='444' />
+<set label='Rocha ' value='221' />
+<set label='Outro(a) ' value='142' />
+</chart>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chart caption=''
+		   xAxisName='' yAxisName='Amount' numberPrefix='votos(s): '>  
+<set label='Flávio Martins ' value='205' />
+<set label='Itomar Dória ' value='154' />
+<set label='Outro(a) ' value='138' />
+<set label='Paulo de Tarso Pereira ' value='125' />
+<set label='Sérgio Pereira da Silva ' value='79' />
+<set label='Edward Nunes Machry ' value='58' />
+<set label='Pedro Pereira dos Santos ' value='48' />
+</chart>

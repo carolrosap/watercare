@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<chart caption=''
+		   xAxisName='' yAxisName='Amount' numberPrefix='votos(s): '>  
+<set label='24 Horas ' value='175' />
+<set label='Pegaso ' value='173' />
+<set label='Frizzo - Charrua ' value='145' />
+<set label='Mega Petro ' value='143' />
+<set label='Prisco ' value='120' />
+<set label='Outro(a) ' value='51' />
+</chart>
